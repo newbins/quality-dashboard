@@ -20,9 +20,9 @@ function App() {
           margin: 0,
         }}
       >
-        Wah Gwan, Soon Come
+        Wah Gwan, Soon Come!
       </h1>
-      <p> What's Up, Coming Soon</p>
+      <p> What's Up, Coming Soon!</p>
     </div>
   );
 }
