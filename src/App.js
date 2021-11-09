@@ -13,6 +13,7 @@ function App() {
         font: "roboto",
       }}
     >
+      <img src={logo} alt="Quality Logo" />
       <h1
         style={{
           color: "#6EC177",
