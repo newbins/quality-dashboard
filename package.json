@@ -7,7 +7,9 @@
     "firebase": "^9.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3"
+    "react-scripts": "4.0.3",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,5 +38,17 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "jest-dom": "^4.0.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newbins/quality-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newbins/quality-dashboard/issues"
+  },
+  "homepage": "https://github.com/newbins/quality-dashboard#readme"
 }
