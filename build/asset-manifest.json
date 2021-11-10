@@ -1,21 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.8c8b27cf.chunk.css",
-    "main.js": "./static/js/main.c2e713be.chunk.js",
-    "main.js.map": "./static/js/main.c2e713be.chunk.js.map",
+    "main.css": "./static/css/main.6dea0f05.chunk.css",
+    "main.js": "./static/js/main.43d589ef.chunk.js",
+    "main.js.map": "./static/js/main.43d589ef.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.138aa6fc.js",
     "runtime-main.js.map": "./static/js/runtime-main.138aa6fc.js.map",
-    "static/js/2.79e2d03c.chunk.js": "./static/js/2.79e2d03c.chunk.js",
-    "static/js/2.79e2d03c.chunk.js.map": "./static/js/2.79e2d03c.chunk.js.map",
+    "static/js/2.41723525.chunk.js": "./static/js/2.41723525.chunk.js",
+    "static/js/2.41723525.chunk.js.map": "./static/js/2.41723525.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "./static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.79e2d03c.chunk.js.LICENSE.txt": "./static/js/2.79e2d03c.chunk.js.LICENSE.txt",
-    "static/media/logo.cb5e0e52.svg": "./static/media/logo.cb5e0e52.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.41723525.chunk.js.LICENSE.txt": "./static/js/2.41723525.chunk.js.LICENSE.txt",
+    "static/media/AccountsIcon.b4de8676.svg": "./static/media/AccountsIcon.b4de8676.svg",
+    "static/media/AccountsIconActive.93364938.svg": "./static/media/AccountsIconActive.93364938.svg",
+    "static/media/DashboardIcon.be3360d8.svg": "./static/media/DashboardIcon.be3360d8.svg",
+    "static/media/DashboardIconActive.30e670d1.svg": "./static/media/DashboardIconActive.30e670d1.svg",
+    "static/media/SecureIcon.dbbcd9c2.svg": "./static/media/SecureIcon.dbbcd9c2.svg",
+    "static/media/SecureIconActive.de253f45.svg": "./static/media/SecureIconActive.de253f45.svg",
+    "static/media/SettingsIcon.d3153590.svg": "./static/media/SettingsIcon.d3153590.svg",
+    "static/media/SettingsIconActive.55bd9d8f.svg": "./static/media/SettingsIconActive.55bd9d8f.svg",
+    "static/media/SignOutIcon.725c37a4.svg": "./static/media/SignOutIcon.725c37a4.svg",
+    "static/media/TransactionsIcon.6a8d6881.svg": "./static/media/TransactionsIcon.6a8d6881.svg",
+    "static/media/TransactionsIconActive.ac8593c8.svg": "./static/media/TransactionsIconActive.ac8593c8.svg",
+    "static/media/logo1.cb5e0e52.svg": "./static/media/logo1.cb5e0e52.svg",
+    "static/media/logo2.fa32370a.svg": "./static/media/logo2.fa32370a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.138aa6fc.js",
-    "static/js/2.79e2d03c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c2e713be.chunk.js"
+    "static/js/2.41723525.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.43d589ef.chunk.js"
   ]
 }
